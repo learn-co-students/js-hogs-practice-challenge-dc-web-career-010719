@@ -40,7 +40,7 @@
       "id": 4,
       "name": "Trouble",
       "specialty": "Racing",
-      "greased": true,
+      "greased": false,
       "weight": 1.7,
       "highest medal achieved": "gold",
       "image": "./hog-imgs/trouble.jpg"
@@ -116,6 +116,51 @@
       "weight": 4.1,
       "highest medal achieved": "wood",
       "image": "./hog-imgs/augustus_gloop.jpg"
+    },
+    {
+      "name": "sadfdg",
+      "specialty": "fdg",
+      "greased": false,
+      "weight": "dsfg",
+      "highest medal achieved": "sadf",
+      "image": "./hog-imgs/mudblood.jpg",
+      "id": 13
+    },
+    {
+      "name": "sadfg",
+      "specialty": "sd",
+      "greased": false,
+      "weight": "sdf",
+      "highest medal achieved": "efe",
+      "image": "./hog-imgs/mudblood.jpg",
+      "id": 14
+    },
+    {
+      "name": "sadfg",
+      "specialty": "sd",
+      "greased": false,
+      "weight": "sdf",
+      "highest medal achieved": "efe",
+      "image": "./hog-imgs/mudblood.jpg",
+      "id": 15
+    },
+    {
+      "name": "hyewr",
+      "specialty": "dfrewf",
+      "greased": true,
+      "weight": "ergtweregt",
+      "highest medal achieved": "wadhrtreg",
+      "image": "./hog-imgs/mudblood.jpg",
+      "id": 16
+    },
+    {
+      "name": "hyewrfefwrg",
+      "specialty": "d",
+      "greased": false,
+      "weight": "erg",
+      "highest medal achieved": "wadhrtreg",
+      "image": "./hog-imgs/mudblood.jpg",
+      "id": 17
     }
   ]
 }
