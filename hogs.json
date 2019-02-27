@@ -13,7 +13,7 @@
       "id": 1,
       "name": "Porkchop",
       "specialty": "Making friends",
-      "greased": true,
+      "greased": false,
       "weight as a ratio of hog to LG - 24.7 Cu. Ft. French Door Refrigerator with Thru-the-Door Ice and Water": 1.6,
       "highest medal achieved": "silver",
       "image": "./hog-imgs/porkchop.jpg"
@@ -22,7 +22,7 @@
       "id": 2,
       "name": "Cherub",
       "specialty": "truffle finder",
-      "greased": false,
+      "greased": true,
       "weight as a ratio of hog to LG - 24.7 Cu. Ft. French Door Refrigerator with Thru-the-Door Ice and Water": 0.7,
       "highest medal achieved": "gold",
       "image": "./hog-imgs/cherub.jpg"
@@ -116,6 +116,24 @@
       "weight as a ratio of hog to LG - 24.7 Cu. Ft. French Door Refrigerator with Thru-the-Door Ice and Water": 4.1,
       "highest medal achieved": "wood",
       "image": "./hog-imgs/augustus_gloop.jpg"
+    },
+    {
+      "name": "Phil Dwayne Hartley",
+      "specialty": "drawing",
+      "highest medal achieved": "gold",
+      "weight as a ratio of hog to LG - 24.7 Cu. Ft. French Door Refrigerator with Thru-the-Door Ice and Water": "3",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71N88Xv1G8L._SY606_.jpg",
+      "greased": true,
+      "id": 13
+    },
+    {
+      "name": "Andrea",
+      "specialty": "drawing",
+      "highest medal achieved": "gold",
+      "weight as a ratio of hog to LG - 24.7 Cu. Ft. French Door Refrigerator with Thru-the-Door Ice and Water": "2",
+      "image": "https://partycity6.scene7.com/is/image/PartyCity/_pdp_sq_?$_1000x1000_$&$product=PartyCity/P815202",
+      "greased": false,
+      "id": 14
     }
   ]
 }
