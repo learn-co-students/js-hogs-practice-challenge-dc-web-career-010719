@@ -16,7 +16,12 @@
       justify-content: center;
       text-align: center;
       }
-
+      
+      img{
+        max-height: 250px;
+        max-width: 250px
+      }
+      
       #container {
         width:1279px;
         margin:auto;
@@ -50,17 +55,17 @@
       <div id="form">
         <h3>New Hog</h3>
         <form id="hog-form">
-          <input type="text" name="name" placeholder="name"/>
+          <input type="text" name="name" class="name" placeholder="name"/>
           <br/>
-          <input type="text" name="specialty" placeholder="specialty"/>
+          <input type="text" name="specialty" class="specialty" placeholder="specialty"/>
           <br/>
-          <input type="text" name="medal" placeholder="medal"/>
+          <input type="text" name="medal" class="medal" placeholder="medal"/>
           <br/>
-          <input type="text" name="weight" placeholder="weight"/>
+          <input type="text" name="weight" class="weight" placeholder="weight"/>
           <br/>
-          <input type="text" name="img" placeholder="img url"/>
+          <input type="text" name="img" class="img" placeholder="img url"/>
           <br/>
-          <span>greased: <input type="checkbox" name="greased" value="greased"></span>
+          <span>greased: <input type="checkbox" name="greased" class="greased" value="greased"></span>
           <br/>
           <input type="submit" value="Submit"/>
         </form>
