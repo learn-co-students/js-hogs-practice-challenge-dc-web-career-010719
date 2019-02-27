@@ -1,15 +1,6 @@
 {
   "hogs": [
     {
-      "id": 0,
-      "name": "Mudblood",
-      "specialty": "Mediocre magic",
-      "greased": false,
-      "weight as a ratio of hog to LG - 24.7 Cu. Ft. French Door Refrigerator with Thru-the-Door Ice and Water": 2,
-      "highest medal achieved": "bronze",
-      "image": "./hog-imgs/mudblood.jpg"
-    },
-    {
       "id": 1,
       "name": "Porkchop",
       "specialty": "Making friends",
@@ -116,6 +107,33 @@
       "weight as a ratio of hog to LG - 24.7 Cu. Ft. French Door Refrigerator with Thru-the-Door Ice and Water": 4.1,
       "highest medal achieved": "wood",
       "image": "./hog-imgs/augustus_gloop.jpg"
+    },
+    {
+      "name": "James",
+      "specialty": "Love",
+      "greased": false,
+      "weight": "100",
+      "medal": "Gold",
+      "image": "https://www.in.gov/dnr/fishwild/images/fw-feral_hog1.jpg",
+      "id": 13
+    },
+    {
+      "name": "Gryffin",
+      "specialty": "Love",
+      "greased": true,
+      "weight as a ratio of hog to LG - 24.7 Cu. Ft. French Door Refrigerator with Thru-the-Door Ice and Water": "34",
+      "highest medal achieved": "Gold",
+      "image": "https://www.in.gov/dnr/fishwild/images/fw-feral_hog1.jpg",
+      "id": 14
+    },
+    {
+      "name": "Gryffin <3",
+      "specialty": "Love",
+      "greased": true,
+      "weight as a ratio of hog to LG - 24.7 Cu. Ft. French Door Refrigerator with Thru-the-Door Ice and Water": "3",
+      "highest medal achieved": "Gold",
+      "image": "https://www.in.gov/dnr/fishwild/images/fw-feral_hog1.jpg",
+      "id": 15
     }
   ]
 }
