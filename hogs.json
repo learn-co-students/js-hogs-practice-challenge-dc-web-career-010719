@@ -98,6 +98,15 @@
       "medal": "Platinum",
       "image": "./hog-imgs/truffleshuffle.jpg",
       "id": 12
+    },
+    {
+      "name": "Anthony",
+      "specialty": "Chillin",
+      "greased": false,
+      "weight": 3,
+      "medal": "Platinum",
+      "image": "./hog-imgs/truffleshuffle.jpg",
+      "id": 13
     }
   ]
 }

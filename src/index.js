@@ -52,6 +52,10 @@ function addDog(e) {
     image: img
   };
 
+  let submitForm = document.querySelector('#hog-form');
+
+  submitForm.reset();
+
   fetch('http://localhost:3000/hogs/', {
     method: 'POST',
     body: JSON.stringify(data),
